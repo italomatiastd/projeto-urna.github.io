@@ -32,3 +32,19 @@ Este projeto foi desenvolvido com fins educacionais, com o objetivo de praticar:
 Você pode visualizar o projeto em funcionamento através do GitHub Pages:
 
 👉 [Clique aqui para acessar a Urna Eletrônica](https://italomatiastd.github.io/projeto-urna.github.io/)
+
+## 👥 Candidatos Disponíveis:
+
+### Vereador (5 dígitos)
+
+| Número | Nome         | Partido |
+|--------|--------------|---------|
+| 45123  | João Pereira | PBD     |
+| 77222  | Maria Souza  | PLM     |
+
+### Prefeito (2 dígitos)
+
+| Número | Nome             | Partido | Vice         |
+|--------|------------------|---------|--------------|
+| 99     | Carlos Mendes    | PBD     | Ana Lima     |
+| 84     | Fernanda Rocha   | PLM     | Ricardo Dias |
